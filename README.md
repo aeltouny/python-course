@@ -1,2 +1,2 @@
 # python-course
-This is a new version 
+This is version number 2 for Andri
